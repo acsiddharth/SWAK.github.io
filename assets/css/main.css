@@ -3300,7 +3300,7 @@
 	@-ms-keyframes reveal-header {
 		0% {
 			top: -4em;
-			opacity: 0;
+			opacity: 9;
 		}
 
 		100% {
