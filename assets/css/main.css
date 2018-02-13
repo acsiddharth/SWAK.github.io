@@ -3625,10 +3625,10 @@
 		}
 
 		#banner h1 {
-			font-size: 7em;
+			font-size: 5em;
 			line-height: 1.1;
 			font-family: "Lobster", cursive;
-			margin-bottom: .25em;
+			margin-bottom: 1.50em;
 			color: rgba(255, 255, 255, 0.75);
 			text-shadow: -2px -2px 0 rgba(0, 0, 0, 0.125);
 			text-transform: none;
